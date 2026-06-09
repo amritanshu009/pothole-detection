@@ -1,0 +1,4 @@
+train: C:\Users\chara\OneDrive\Desktop\PROGRAMS\yolo\data\train\images
+val: C:\Users\chara\OneDrive\Desktop\PROGRAMS\yolo\data\train\images
+nc: 1
+names: ['pothole']
